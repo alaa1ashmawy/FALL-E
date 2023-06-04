@@ -1,0 +1,117 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Header Styles */
+  .header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+   h1 {
+    margin: 20px 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  /* Navigation Styles */
+  .navbar {
+    background-color: #f4f4f4;
+    padding: 10px;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .navbar a {
+    color: #333;
+    text-decoration: none;
+    padding: 5px;
+  }
+  
+  .navbar a:hover {
+    color: #000;
+  }
+  
+  /* Blog Post Styles */
+  .post {
+    margin-bottom: 20px;
+  }
+  
+  .post h2 {
+    margin-top: 0;
+    text-align: center;
+  }
+  
+  .post-meta {
+    color: #888;
+    font-size: 14px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .post-content {
+    line-height: 1.6;
+    text-align: center;
+  }
+  
+  /* Sidebar Styles */
+  .sidebar {
+    width: 30%;
+    float: right;
+  }
+  
+  .widget {
+    margin-bottom: 20px;
+  }
+  
+   h3 {
+    margin-top: 0;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
+   h4 {
+    margin-top: 0;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+  
+  /* Footer Styles */
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  p {
+    margin: 0;
+    text-align: center;
+    font-size: 14px;
+  }
+  
